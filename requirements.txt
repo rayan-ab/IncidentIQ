@@ -1,1 +1,6 @@
- 
+ Flask
+google-genai
+python-dotenv
+reportlab
+Werkzeug
+MarkupSafe
