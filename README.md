@@ -28,6 +28,20 @@ IncidentIQ is an AI-assisted incident response and root-cause analysis web appli
 - JSON
 - ReportLab
 
+# Clone repository
+
+python -m venv venv
+
+# Windows
+venv\Scripts\activate
+
+pip install -r requirements.txt
+
+# Create .env
+GEMINI_API_KEY=YOUR_API_KEY
+
+python app.py
+
 ## Installation
 
 1. Clone or download the repository.
